@@ -33,5 +33,5 @@ Bicep provides concise syntax, reliable type safety, and support for code reuse.
 
 ## Basic Bicep concepts
 * [Structure & syntax of a Bicep file - Microsoft documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/file)
-    * Variables, Parameters (inline/json file), [Functions](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions) (e.g. uniqueString), [Decorators](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/file#parameter-decorators) (e.g. allowed values), output, [Resource](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/file#resources)
+    * Variables, Parameters (inline/json file), [Functions](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions) (e.g. uniqueString), [Decorators](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/file#parameter-decorators) (e.g. allowed values), output, [Resource](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/file#resources), [Modules](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/modules)
 
